@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "Documentación de Gestor de Calificaciones"
+  name: "Articulo: Sobreposición de Vectores"
   text: "Guía y casos de uso"
-  tagline: My great project tagline
+  tagline: "Tecnologia utilizada: C++"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
+      text: Objetivos
+      link: /Objetivo Principal/objetivo-principal
+    - theme: brand
+      text: Caso de Uso
       link: /api-examples
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
+# features:
+#   - title: Feature A
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature B
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - title: Feature C
+#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+# ---
 
